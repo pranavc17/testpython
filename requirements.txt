@@ -1,1 +1,1 @@
-xunit
+xunit==3.0.8
