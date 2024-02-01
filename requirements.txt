@@ -1,1 +1,1 @@
-xunit>=3.0.3,<=3.0.7
+xunit[security]==3.0.8
